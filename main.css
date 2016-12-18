@@ -5,8 +5,11 @@ html{
   background: linear-gradient(#05243f, #006ea1) no-repeat 0 0;
   font-family: 'Helvetica Neue', Helvetica, Roboto Sans, Arial, sans-serif;
   color: #fff;
-  font-weight: 100;
-  
+  font-weight: 100;  
+}
+
+p, a, a:hover, a:active, a:focus{
+  color: #fff;
 }
 
 
